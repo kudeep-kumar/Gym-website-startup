@@ -54,7 +54,7 @@ const Header = () => {
   return (
     <header className="header" ref={headerRef}>
       <div className="container">
-        <div className="nav__wrapper">
+        <div className="nav__wrapper"> 
           {/* =========== logo ========== */}
           <div className="logo">
             <div className="logo__img">
